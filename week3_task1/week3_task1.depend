@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632211727 source:c:\c projects\innopolis university\week3_task1\main.c
+	<stdio.h>
+	<stdlib.h>
+
